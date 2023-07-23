@@ -1,6 +1,8 @@
 # Landing-Page
 
-![alt text](ToDoList/img/to-do-list.png)
+![alt text](Landing-Page/images/landing-page.png)
+<br><br>
+![alt text](Landing-Page/images/landing-page2.png)
 
 ## Tecnologias utilizadas
 
